@@ -2,4 +2,4 @@
 
 This is the complete Implementation of the Simulations.
 
-Some of the notebooks are for demonstrating various mechanism proposed in the manuscript.
+Some of the notebooks are added to demonstrate various mechanism proposed in the manuscript.
